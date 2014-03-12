@@ -27,7 +27,7 @@ How to use this template to create your project:
 
 - Use Django Admin to generate a new project::
 
-    $ django-admin.py startproject --template https://github.com/jackboot7/django-project-template/zipball/master --extension py,rst,conf,ini projectname
+    $ django-admin.py startproject --template https://github.com/posmagroup/django-project-template/zipball/master --extension py,rst,conf,ini projectname
 
 - Install the project requirements and start working::
     
